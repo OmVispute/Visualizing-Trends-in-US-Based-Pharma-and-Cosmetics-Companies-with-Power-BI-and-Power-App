@@ -1,0 +1,16 @@
+Dataset for Project:
+
+--https://data.world/garyhoov/largest-us-pharmaceutical-and-cosmetics-companies-1956
+
+Overview of the data:
+
+--The data tells us about 22 various Pharma companies which are US-based and tells us about the data of Sales, Profit & Percentage of Profit calculated over the Sales over a widesprad of various decade staring from 1956 till 2016. 
+
+KPI Selection to understand the trend:
+
+1.) Sales Growth: Tells us about the increase of sales growth over a specific period of time.
+Formula: ((Current Year Sales - Previous Year Sales)/Previous Year Sales) x 100
+
+2.) Net Profit Margin: Tells us about the Percentage of Profit that was calculated out of the total amount of Sales.
+Formula: (Profit of the Year/Sales of the Year) x 100 x
+
